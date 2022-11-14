@@ -1,7 +1,12 @@
-* .pem
+target/
+.idea
+.DS_Store
+session-store
+*.iml
+*.pem
 
-* .hcl
+*.hcl
 
-* .tfstate
+*.tfstate
 
-* .backup
+*.backup
